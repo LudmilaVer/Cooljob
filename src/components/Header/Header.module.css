@@ -1,0 +1,58 @@
+.header {
+  background-color: #CDE7FF;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 100px;
+  align-items: center;
+}
+
+.left_side {
+display: flex;
+align-items: center;
+}
+
+.logo {
+font-family: "Red Hat Display", sans-serif;
+font-optical-sizing: auto;
+font-weight: 700;
+font-style: normal;
+margin-right: 109px;
+text-decoration: none;
+color: #274059;
+font-size: 30px;
+line-height: 39.69px;
+
+}
+
+.find_job, .find_startup {
+font-family: "Raleway", sans-serif;
+font-size: 15px;
+font-weight: 600;
+line-height: 17.61px;
+text-align: left;
+color: #000000CC;
+text-decoration: none;
+
+}
+
+.find_job {
+margin-right: 53px;
+}
+
+.reg {
+font-family: Raleway;
+font-size: 15px;
+font-weight: 400;
+line-height: 17.61px;
+text-align: left;
+color: #000000D9;
+text-decoration: none;;
+margin-right: 39px;
+}
+
+.sign_button {
+padding: 13px 14px;
+background-color: white;
+border: none;
+
+}
